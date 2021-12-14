@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/demo-todo-app/static/css/main.32e10945.chunk.css",
+    "main.js": "/demo-todo-app/static/js/main.d315c3cc.chunk.js",
+    "main.js.map": "/demo-todo-app/static/js/main.d315c3cc.chunk.js.map",
+    "runtime-main.js": "/demo-todo-app/static/js/runtime-main.cc98dc57.js",
+    "runtime-main.js.map": "/demo-todo-app/static/js/runtime-main.cc98dc57.js.map",
+    "static/js/2.f4ed73f5.chunk.js": "/demo-todo-app/static/js/2.f4ed73f5.chunk.js",
+    "static/js/2.f4ed73f5.chunk.js.map": "/demo-todo-app/static/js/2.f4ed73f5.chunk.js.map",
+    "index.html": "/demo-todo-app/index.html",
+    "static/css/main.32e10945.chunk.css.map": "/demo-todo-app/static/css/main.32e10945.chunk.css.map",
+    "static/js/2.f4ed73f5.chunk.js.LICENSE.txt": "/demo-todo-app/static/js/2.f4ed73f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc98dc57.js",
+    "static/js/2.f4ed73f5.chunk.js",
+    "static/css/main.32e10945.chunk.css",
+    "static/js/main.d315c3cc.chunk.js"
+  ]
+}
