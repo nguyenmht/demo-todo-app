@@ -1,0 +1,8 @@
+#text-field-edit, #text-field-edit::placeholder {
+    height: 2em;
+    color: #000;
+    font-size: inherit;
+    font-family: inherit;
+    font-size: normal;
+    font-weight: 499;
+}
