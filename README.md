@@ -7,7 +7,7 @@ This project is for building and customizing your todo-list.
   <img alt="VS Code in action" src="./image/ScreenShot.png">
 </p>
 
-Link demo: [https://mhtn-it.github.io/demo-todo-app/](https://mhtn-it.github.io/demo-todo-app/).
+Link demo: [https://nguyenmht.github.io/demo-todo-app/](https://nguyenmht.github.io/demo-todo-app/).
 
 ## Technology used 
 
